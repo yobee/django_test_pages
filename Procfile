@@ -1,0 +1,1 @@
+web:gincorn pages_project.wsgi --log-file-
