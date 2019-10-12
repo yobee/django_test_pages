@@ -1,1 +1,1 @@
-web:gincorn pages_project.wsgi --log-file-
+web: gincorn pages_project.wsgi --log-file -
